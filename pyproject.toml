@@ -14,6 +14,7 @@ lingam = "^1.3"
 graphviz = "^0.14.1"
 pgmpy = "^0.1.11"
 pcalg = "^0.1.9"
+pygraphviz = "^1.6"
 
 [tool.poetry.dev-dependencies]
 
